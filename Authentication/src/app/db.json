@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Prasad",
+      "password": "Test@1234",
+      "email": "admin@a.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "Rohit123",
+      "name": "Rohit",
+      "password": "Rohit@123",
+      "email": "Rohit@abc.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": false
+    },
+    {
+      "id": "test123",
+      "name": "test",
+      "password": "Test@1234",
+      "email": "test@g.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "staff"
+    },
+    {
+      "code": "quality",
+      "name": "quality"
+    }
+  ]
+}
